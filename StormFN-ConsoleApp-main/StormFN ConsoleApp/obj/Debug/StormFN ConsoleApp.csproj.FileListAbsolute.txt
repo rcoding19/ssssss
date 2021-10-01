@@ -1,0 +1,11 @@
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\bin\Debug\Storm Launcher.exe.config
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\bin\Debug\Storm Launcher.exe
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\bin\Debug\Storm Launcher.pdb
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\StormFN ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\StormFN ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\StormFN ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\StormFN ConsoleApp.csproj.Fody.CopyLocal.cache
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\Storm Launcher.exe
+C:\Users\Rafael Coelho\Desktop\StormFN-ConsoleApp-main\StormFN-ConsoleApp-main\StormFN ConsoleApp\obj\Debug\Storm Launcher.pdb
